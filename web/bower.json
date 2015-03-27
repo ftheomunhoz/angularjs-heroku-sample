@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-heroku-sample",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ftheomunhoz/angularjs-heroku-sample",
+  "authors": [
+    "ftheomunhoz <ftheomunhoz@gmail.com>"
+  ],
+  "description": "AngularJS Heroku Sample",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angularjs", "heroku", "sample"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
